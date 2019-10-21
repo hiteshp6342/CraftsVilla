@@ -18,7 +18,7 @@ public class BasePage
 		driver = browser;
 	}
 	
-	
+	//verifyTitle
 	public void verifyTitle(String expectedTitle)
 	{
 		WebDriverWait wait = new WebDriverWait(driver, 20);
