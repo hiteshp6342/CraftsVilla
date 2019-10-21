@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Craftsvilla" duration-ms="37277" started-at="2019-10-21T02:33:01Z" finished-at="2019-10-21T02:33:38Z">
+  <suite name="Craftsvilla" duration-ms="14905" started-at="2019-10-21T19:21:10Z" finished-at="2019-10-21T19:21:25Z">
     <groups>
     </groups>
-    <test name="Regression" duration-ms="37277" started-at="2019-10-21T02:33:01Z" finished-at="2019-10-21T02:33:38Z">
+    <test name="Regression" duration-ms="14905" started-at="2019-10-21T19:21:10Z" finished-at="2019-10-21T19:21:25Z">
       <class name="com.craftsvilla.testscripts.LogInScripts">
-        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="launchBrowser" is-config="true" duration-ms="25411" started-at="2019-10-21T02:33:01Z" finished-at="2019-10-21T02:33:26Z">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="launchBrowser" is-config="true" duration-ms="13809" started-at="2019-10-21T19:21:10Z" finished-at="2019-10-21T19:21:24Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="tc_01_logInToApp()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="tc_01_logInToApp" duration-ms="10318" started-at="2019-10-21T02:33:26Z" finished-at="2019-10-21T02:33:37Z">
+        <test-method status="PASS" signature="tc_01_logInToApp()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="tc_01_logInToApp" duration-ms="441" started-at="2019-10-21T19:21:24Z" finished-at="2019-10-21T19:21:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_01_logInToApp -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="closeBrowser" is-config="true" duration-ms="1457" started-at="2019-10-21T02:33:37Z" finished-at="2019-10-21T02:33:38Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="closeBrowser" is-config="true" duration-ms="632" started-at="2019-10-21T19:21:24Z" finished-at="2019-10-21T19:21:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

@@ -19,6 +19,7 @@ public class BaseTest implements AutoConst
 	public static WebDriver driver = null;
 	public WebDriverWait wait = null;
 	
+	//Launch Browser
 	@Parameters("browser")
 	@BeforeMethod
 	public void launchBrowser(String browser)
