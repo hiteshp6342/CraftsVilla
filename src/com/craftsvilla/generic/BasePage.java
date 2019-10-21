@@ -36,6 +36,7 @@ public class BasePage
 		
 	}
 	
+	//VerifyElementPresent
 	public void verifyElementPresent(WebElement ele)
 	{
 		WebDriverWait wait = new WebDriverWait(driver, 20);
