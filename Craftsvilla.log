@@ -1,0 +1,4 @@
+2019-10-21 07:33:53 ERROR BaseTest:39 - Test case TC_01 failedjava.lang.NullPointerException
+2019-10-21 07:35:01 ERROR BaseTest:39 - Test case TC_01 failedjava.lang.NullPointerException
+2019-10-21 07:37:12 ERROR BaseTest:39 - Test case TC_01 failedjava.lang.NullPointerException
+2019-10-21 08:03:37 ERROR BaseTest:46 - TC_01 has failed

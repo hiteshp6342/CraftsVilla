@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Craftsvilla">
+<parameter name="browser" value="chrome"></parameter>
+  <test  name="Regression">
+  <classes>
+  <class name="com.craftsvilla.testscripts.LogInScripts"></class>
+  </classes>
+  </test> <!-- Gression -->
+</suite> <!-- Craftsvilla -->

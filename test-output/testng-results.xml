@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Craftsvilla" duration-ms="37277" started-at="2019-10-21T02:33:01Z" finished-at="2019-10-21T02:33:38Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="37277" started-at="2019-10-21T02:33:01Z" finished-at="2019-10-21T02:33:38Z">
+      <class name="com.craftsvilla.testscripts.LogInScripts">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="launchBrowser" is-config="true" duration-ms="25411" started-at="2019-10-21T02:33:01Z" finished-at="2019-10-21T02:33:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tc_01_logInToApp()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="tc_01_logInToApp" duration-ms="10318" started-at="2019-10-21T02:33:26Z" finished-at="2019-10-21T02:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_logInToApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@56aac163]" name="closeBrowser" is-config="true" duration-ms="1457" started-at="2019-10-21T02:33:37Z" finished-at="2019-10-21T02:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.craftsvilla.testscripts.LogInScripts -->
+    </test> <!-- Regression -->
+  </suite> <!-- Craftsvilla -->
+</testng-results>
